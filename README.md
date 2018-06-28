@@ -5,6 +5,8 @@ docker-php-fpm-alpine
 ## About
 This package provides images for [php-fpm](http://php.net/manual/en/install.fpm.php) with some extra extentions installed :
 
+* gettext
+
 It's based on Alpine Edge.
 
 ## Setup
