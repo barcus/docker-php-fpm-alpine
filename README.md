@@ -19,7 +19,7 @@ docker run -t -i -v /website_dir:/var/www/html barcus/php-fpm-alpine
 
 ## Links
 For more information visit the Github repositories :
-* [php-fpm-alpine](https://github.com/barcus/php-fpm-alpine)
+* [php-fpm-alpine](https://github.com/barcus/docker-php-fpm-alpine)
 
 My Docker hub :
 * [docker image](https://hub.docker.com/r/barcus/php-fpm-alpine)
